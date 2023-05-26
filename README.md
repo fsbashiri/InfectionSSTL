@@ -40,5 +40,6 @@ Our code is licensed under a GPL version 3 license (see the license file for det
 
 ## Citation
 Please view our publication on JAMIA. If you find our project useful, please consider citing our work: 
-XX
+
+Bashiri et al. Identifying infected patients using semi-supervised and transfer learning. JAMIA 2022. https://academic.oup.com/jamia/article-abstract/29/10/1696/6649188
 
